@@ -4,14 +4,21 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:telaMain"
+        xmlns:ViewModel="clr-namespace:telaMain.ViewModels"
         mc:Ignorable="d"
         Title="Login Estoque" Height="260" Width="325" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#FFC0BCBC">
-    <Grid>
+
+    <Window.Resources>
+        <ViewModel:LogarViewModel x:Key="vmLogar"/>
+    </Window.Resources>
+    
+    <Grid DataContext="{StaticResource vmLogar}">
         <Label Name="lb_usuario" Content="Usuario" HorizontalAlignment="Left" Margin="33,26,0,0" VerticalAlignment="Top" Width="125"/>
         <Label Name="lb_senha" Content="Senha" HorizontalAlignment="Left" Margin="33,104,0,0" VerticalAlignment="Top" Width="125"/>
         <TextBox Name="tbox_usuario" HorizontalAlignment="Left" Margin="33,52,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155" Height="29"/>
         <PasswordBox Name="tbox_senha" HorizontalAlignment="Left" Margin="33,130,0,0" VerticalAlignment="Top" Width="155" Height="29"/>
-        <Button Content="Login" HorizontalAlignment="Left" Margin="33,187,0,0" VerticalAlignment="Top" Width="75" Height="27"/>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="33,187,0,0" VerticalAlignment="Top" Width="75" Height="27"
+                Command="{Binding Logar}" CommandParameter="{Binding ElementName=tbox_senha}"/>
         <Button Content="Cadastro" HorizontalAlignment="Left" Margin="113,187,0,0" VerticalAlignment="Top" Width="75" Height="27"/>
         <Image Name="defaultUser" HorizontalAlignment="Left" Height="94" Margin="213,20,0,0" VerticalAlignment="Top" Width="92" Source="/default-user-image.png"/>
     </Grid>
