@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
+using telaMain.View;
 
 namespace telaMain.Commands
 {
@@ -15,13 +16,21 @@ namespace telaMain.Commands
 
         public bool CanExecute(object parameter)
         {
+            //validação de usuário
             return true;
         }
 
         public void Execute(object parameter)
         {
-            string senha = (parameter as PasswordBox).Password;
-            MessageBox.Show("sua senha é: " + senha);
+            //teste login/senha
+            /*string senha = (parameter as PasswordBox).Password;
+            MessageBox.Show("sua senha é: " + senha);*/
+            // final teste de login / senha
+            //===============================================================================
+
+            var telaPrincipal = new WinPrincipal();
+            telaPrincipal.Show();
+            MetodosAuxiliares.Helpers.FecharTelaLogin();
         }
     }
 }

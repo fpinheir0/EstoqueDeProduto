@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:telaMain"
         xmlns:ViewModel="clr-namespace:telaMain.ViewModels"
         mc:Ignorable="d"
-        Title="Login Estoque" Height="260" Width="325" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#FFC0BCBC">
+        Title="Login Estoque" Height="260" Width="325" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#FF978585">
 
     <Window.Resources>
         <ViewModel:LogarViewModel x:Key="vmLogar"/>

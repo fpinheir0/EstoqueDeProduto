@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("default-user-image.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("view/search.png")]
 
 

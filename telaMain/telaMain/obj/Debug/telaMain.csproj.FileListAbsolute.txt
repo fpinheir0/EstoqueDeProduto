@@ -15,3 +15,5 @@ C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain.
 C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain.exe
 C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain.pdb
 C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\View\WinPrincipal.g.cs
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\View\WinPrincipal.baml
