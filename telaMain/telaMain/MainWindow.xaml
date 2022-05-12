@@ -10,7 +10,7 @@
         <Label Name="lb_usuario" Content="Usuario" HorizontalAlignment="Left" Margin="33,26,0,0" VerticalAlignment="Top" Width="125"/>
         <Label Name="lb_senha" Content="Senha" HorizontalAlignment="Left" Margin="33,104,0,0" VerticalAlignment="Top" Width="125"/>
         <TextBox Name="tbox_usuario" HorizontalAlignment="Left" Margin="33,52,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155" Height="29"/>
-        <TextBox x:Name="tbox_senha" HorizontalAlignment="Left" Margin="33,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155" Height="29"/>
+        <PasswordBox Name="tbox_senha" HorizontalAlignment="Left" Margin="33,130,0,0" VerticalAlignment="Top" Width="155" Height="29"/>
         <Button Content="Login" HorizontalAlignment="Left" Margin="33,187,0,0" VerticalAlignment="Top" Width="75" Height="27"/>
         <Button Content="Cadastro" HorizontalAlignment="Left" Margin="113,187,0,0" VerticalAlignment="Top" Width="75" Height="27"/>
         <Image Name="defaultUser" HorizontalAlignment="Left" Height="94" Margin="213,20,0,0" VerticalAlignment="Top" Width="92" Source="/default-user-image.png"/>
