@@ -1,0 +1,17 @@
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\bin\Debug\telaMain.exe.config
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\bin\Debug\telaMain.exe
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\bin\Debug\telaMain.pdb
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\MainWindow.g.cs
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\App.g.cs
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain_MarkupCompile.cache
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain_MarkupCompile.lref
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\MainWindow.baml
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain.g.resources
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain.Properties.Resources.resources
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain.csproj.GenerateResource.cache
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain.exe
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\telaMain.pdb
+C:\Users\Felipe\Documents\EstoqueDeProduto\telaMain\telaMain\obj\Debug\GeneratedInternalTypeHelper.g.cs
